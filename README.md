@@ -6,7 +6,8 @@ To read the given data and perform Feature Transformation process and save the d
 
 # DATE:
 
-GITHUB LINK: 
+GITHUB LINK: https://github.com/viswapriyaG/Ex-06-Feature-Transformation.git
+
 COLAB LINK: https://colab.research.google.com/drive/1PdAtNe_HMyhi_Tl1tWfzkgwx5T_wmA-A
 
 # EXPLANATION
@@ -34,6 +35,7 @@ Save the data to the file
 # CODE
 
 DEVELOPED BY: VISWA PRIYA G
+
 REGISTER NUMBER: 212221220061
 
 ```
